@@ -1,0 +1,1 @@
+I will be doing multiple and different scenario-based projects related to Networking with the help of Cisco Packet Tracer and uploading them here. There are no restrictions for fair use of the projects. Feel free to use them to improve your understanding and skills!
